@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Hey there! I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. <br><br>👯 I’m looking to collaborate on exciting web projects and learn from others in the tech community.<br><br>🌱 I’m currently learning the latest web development frameworks and sharpening my coding skills.<br><br>💬 Ask me about web development, tech trends, or my travel adventures!<br><br>⚡ Fun fact: I speak English, Italian, and Mandarin Chinese!<br><br>🐶 When I’m not coding, you’ll find me traveling or going on hikes with my furry son, Biscoff. 🐾<br><br>👩🏽‍💻 I’m currently open for internships and placements in web development, so feel free to reach out!<br><br><br><br>
+🌟 Hey there! I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. <br><br>👯 I’m looking to collaborate on exciting web projects and learn from others in the tech community.<br><br>⚡ Fun fact: I speak English, Italian, and Mandarin Chinese!<br><br>🐶 When I’m not coding, you’ll find me traveling or going on hikes with my furry son, Biscoff. 🐾<br><br>👩🏽‍💻 I’m currently open for internships and placements in web development, so feel free to reach out!<br><br><br><br>
 
 
 ## 🌐 Socials:
