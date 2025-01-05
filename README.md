@@ -1,6 +1,6 @@
-# 💫 About Me:
-🌟 Hey there! I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. <br><br>👯 I’m looking to collaborate on exciting web projects and learn from others in the tech community.<br><br>⚡ Fun fact: I speak English, Italian, and Mandarin Chinese!<br><br>🐶 When I’m not coding, you’ll find me traveling or going on hikes with my furry son, Biscoff. 🐾<br><br>👩🏽‍💻 I’m currently open for internships and placements in web development, so feel free to reach out!<br><br><br><br>
-
+### Hey there, I'm Diletta!<br><br>
+About Me:<br><br>
+👩🏽‍💻 I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diletta-zecchinetti/) 
