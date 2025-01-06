@@ -30,3 +30,5 @@ I speak English, Italian, and Mandarin Chinese! My multilingual background allow
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DilettaZecchinetti&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<strong>🌱 Check out my projects below! ⬇️ </strong>
