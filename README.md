@@ -1,6 +1,22 @@
-### Hey there, I'm Diletta!
-<br><br>
+### Hey there! 👋  I'm Diletta!
+
 I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. 👩🏽‍💻 
+
+
+🚀 <strong>What I Do</strong>
+
+Full-Stack Development: I build both front-end and back-end solutions, focusing on scalable and efficient web applications. My projects typically integrate React.js for the front end and Node.js with PostgreSQL for the back end.
+
+Test-Driven Development (TDD): I’m a strong advocate for TDD, ensuring that my code is robust and reliable through tools like Jest and Supertest.
+
+API Design & Integration: I design clean, effective APIs and integrate them seamlessly with front-end applications to provide a smooth user experience.
+
+Collaborative Development: I thrive in agile, team-oriented environments, where I can contribute to projects through pair programming, code reviews, and collaborative problem-solving.
+
+
+🤓 <strong>Fun Fact</strong>
+
+I speak English, Italian, and Mandarin Chinese! My multilingual background allows me to connect with people from diverse cultures and brings a unique perspective to my work.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diletta-zecchinetti/) 
