@@ -1,4 +1,4 @@
-### Hey there, I'm Diletta!<br><br>
+### Hey there, I'm Diletta!
 About Me:<br><br>
 👩🏽‍💻 I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. 
 
