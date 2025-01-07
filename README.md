@@ -18,6 +18,12 @@ Collaborative Development: I thrive in agile, team-oriented environments, where 
 
 I speak English, Italian, and Mandarin Chinese! My multilingual background allows me to connect with people from diverse cultures and brings a unique perspective to my work.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diletta-zecchinetti/) 
 
@@ -30,5 +36,4 @@ I speak English, Italian, and Mandarin Chinese! My multilingual background allow
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DilettaZecchinetti&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <strong>🌱 Check out my projects below! ⬇️ </strong>
