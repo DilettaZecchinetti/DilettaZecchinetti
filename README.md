@@ -1,4 +1,5 @@
-### Hey there! 👋  I'm Diletta!
+# `Welcome to my GitHub! 👋  I'm Diletta! `
+
 
 I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. 👩🏽‍💻 
 
