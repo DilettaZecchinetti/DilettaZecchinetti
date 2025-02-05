@@ -1,9 +1,6 @@
 # `Welcome to my GitHub! 👋  I'm Diletta! `
 
 
-I’m currently a web development student at Northcoders, learning all the ins and outs of coding and building websites. 👩🏽‍💻 
-
-
 🚀 <strong>What I Do</strong>
 
 Full-Stack Development: I build both front-end and back-end solutions, focusing on scalable and efficient web applications. My projects typically integrate React.js for the front end and Node.js with PostgreSQL for the back end.
